@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-Git is a version control system.
+Gitis a version control system.
 Git is free software.
 =======
 Creating is a branch quick
