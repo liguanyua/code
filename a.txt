@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 Gitis a version control system.
 Git is free software.
-=======
 Creating is a branch quick
->>>>>>> dev
+a123
+a_123
